@@ -26,4 +26,4 @@ const vitoriasJogador = 89;
 const derrotasJogador = 20;
 
 const resultadoRankeadas = calcularSaldoRankeadas(vitoriasJogador, derrotasJogador);
-console.log(`O jogador está no ranking: ${resultadoRankeadas}`);
+console.log(`O Herói tem saldo de ${vitoriasJogador} está no ranking: ${resultadoRankeadas}`);
